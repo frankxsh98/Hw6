@@ -1,0 +1,20 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "si579 hw5",
+  "main": "579-ps2-test-runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snapsvg": "^0.5.1",
+    "snapsvg-cjs": "0.0.6",
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  },
+  "devDependencies": {
+    "imports-loader": "^2.0.0"
+  }
+}
